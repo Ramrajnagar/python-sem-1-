@@ -1,4 +1,1 @@
-1.Given an integer, return True if it is even, else return False.
 
-logic:
-we need to check given integer is positive or not then we defined a python function to return even number 
